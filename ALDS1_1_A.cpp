@@ -1,5 +1,5 @@
 //挿入ソート
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 void disp(int n,int A[])
