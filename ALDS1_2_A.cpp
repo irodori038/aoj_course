@@ -1,5 +1,5 @@
 //bubble sort using flag
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int bubbleSort(int A[],int N)
